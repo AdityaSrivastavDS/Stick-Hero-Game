@@ -2,6 +2,8 @@
 
 ![Stick Game](/assets/game.jpg)
 
+### ✨Live Hosted Link: https://stickherogames.netlify.app/
+
 ## Overview
 
 Stick Hero Game is a simple browser-based game built using HTML, CSS, and JavaScript. The game involves extending a stick to reach the platforms and land safely to score points.
